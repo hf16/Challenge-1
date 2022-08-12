@@ -1,0 +1,299 @@
+.latar-headerr{
+    background-color: #F1F3FF;   
+}
+
+.konten-relative{
+    position: relative;
+    padding-top: 10%;
+    padding-bottom: 8%;
+}
+
+.konten-absolute{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 0;
+    width: 50%;
+} 
+
+.bg-nav{
+    background-color: #F1F3FF;
+}
+
+.button-mobil{
+    background-color: #5CB85F; 
+    color: white; 
+    border: none;
+    border-radius: 4px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 10px;
+    
+}
+.nav-link{
+    font-size: 14px;
+    font-family: 'Helvetica';
+    line-height: 20px;
+}
+.h1-head{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+}
+.p-head{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    
+}
+
+
+.our-service{
+    background-color: white;
+}
+
+.h1-service{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    }
+
+.p-service{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.our-service{
+    background-color: white;
+}
+
+.h1-why{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.p-why{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.h2-why{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.testimonial{
+    background-color: white;
+}
+
+.testimonial-rating{
+    margin-bottom: 10px;
+}
+
+.h1-testimonial{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height, or 150% */
+    text-align: center;
+}
+
+.p-testimonial{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */ 
+    text-align: center;
+    
+}
+
+.p-carousel{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */ 
+    color: #000000;
+}
+
+.p-carousel2{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+
+
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='blue' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+   
+}
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='blue' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+
+
+.section-sewa-mobil{
+    background-color: white;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.bg-sewa-mobil{
+    background-color: #0D28A6;
+}
+
+.h1-sewa-mobil{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 60px;
+}
+
+.p-sewa-mobil{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;        
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 16px;   
+    
+}
+
+.btn-center{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+
+.faq{
+    background-color: white;
+    margin-top: 60px;
+}
+
+.h1-faq{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.p1-faq{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.footer{
+    background-color: white;
+    margin-top: 50px;
+}
+
+.p-footer1{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.p-footer2{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+
+.p-carousel {
+    padding-right: 3%;      
+}
+
+.p-sewa-mobil{
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+
+
+
+@media  (max-width: 767px) {
+
+    /* First Content */
+    .konten-relative {
+      height: auto;
+      padding-bottom: 60%;
+    }
+  
+    .konten-absolute {
+      width: 95%;
+    }
+
+
+    .star{
+        text-align: center;
+    }
+
+    .mobile-footer{
+        margin-top: 5px;
+    }
+
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .konten-relative {
+        height: auto;
+        padding-bottom: 50%;
+      }
+
+      .konten-absolute {
+        width: 95%;
+      }
+    
+}
+
